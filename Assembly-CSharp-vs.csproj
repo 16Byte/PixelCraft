@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Block.cs" />
      <Compile Include="Assets\Scripts\BlockGrass.cs" />
      <Compile Include="Assets\Scripts\Blocks\BlockAir.cs" />
+     <Compile Include="Assets\Scripts\Blocks\BlockCoal.cs" />
      <Compile Include="Assets\Scripts\Blocks\BlockLeaves.cs" />
      <Compile Include="Assets\Scripts\Blocks\BlockWood.cs" />
      <Compile Include="Assets\Scripts\Chunk.cs" />

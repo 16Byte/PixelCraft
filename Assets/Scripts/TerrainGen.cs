@@ -18,7 +18,7 @@ public class TerrainGen
     float dirtNoiseHeight = 3;
 
     float caveFrequency = 0.025f;
-    int caveSize = 7;
+    int caveSize = 4;
 
     float treeFrequency = 0.2f;
     int treeDensity = 3;
